@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (obj\Debug\) contains files shared from another project (hw10.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+c:\cs310\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\hw11\src\game.cpp(243): warning C4018: '<': signed/unsigned mismatch
+c:\cs310\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\hw11\src\game.cpp(288): warning C4018: '<': signed/unsigned mismatch
+  hw10.vcxproj -> C:\CS310\openFrameworks\of_v0.10.0_vs2017_release\apps\myApps\hw11\bin\hw11_debug.exe
+  
+  	                   2	C:\CS310\openFrameworks\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 5647872	C:\CS310\openFrameworks\of_v0.10.0_vs2017_release\apps\myApps\hw11\bin\FreeImage.dll
+  
+  	                   1	C:\CS310\openFrameworks\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	C:\CS310\openFrameworks\of_v0.10.0_vs2017_release\apps\myApps\hw11\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\CS310\openFrameworks\of_v0.10.0_vs2017_release\apps\myApps\hw11\bin\fmodexL.dll
